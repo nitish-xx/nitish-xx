@@ -1,4 +1,4 @@
-Hi I'm Nitish kumar  
+Hi I'm Nitish   
 - 🌱 I’m currently learning python
 - 💬 Ask me about: Ideas to making memes, content creation ,freelancing.
 - 📫 How to reach me: nitishkumar2002se@gmail.com
