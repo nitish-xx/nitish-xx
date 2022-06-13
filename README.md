@@ -1,5 +1,5 @@
 Hi I'm Nitish   
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and c 
 - 💬 Ask me about: Ideas to making memes, content creation ,freelancing.
 - 📫 How to reach me: nitishkumar2002se@gmail.com
 - 😄 know about my experiences: https://www.linkedin.com/in/nitish-kumar-469541216 
