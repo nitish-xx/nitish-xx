@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Coding**
 
-- 📫 How to reach me **nitishkumar2002se@gmail.com**
+- 📫 How to reach me **nitiish8474@gmail.com**
 
 - ⚡ Fun fact **I love to do maths problems.**
 
