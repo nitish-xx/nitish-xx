@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-xx" alt="nitish-xx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@___nitish__" target="blank"><img src="https://img.shields.io/twitter/follow/@___nitish__?logo=twitter&style=for-the-badge" alt="@___nitish__" /></a> </p>
 
 - 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
 
