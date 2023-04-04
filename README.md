@@ -24,7 +24,7 @@
 </a>
 </a>
 <a href="https://www.linkedin.com/in/nitiish8474/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedln style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedln-%231E77B5.svg?&style=for-the-badge&logo=linkedln&logoColor=white alt=linkedln style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_nitiish_xx" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
