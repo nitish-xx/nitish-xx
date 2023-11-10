@@ -11,7 +11,7 @@
 📫 How to reach me nitiish8474@gmail.com.com
 
 
-📄 Know about my experiences -> https://bit.ly/3NbHbaJ
+📄 Know about my experiences -> https://www.linkedin.com/in/nitiish8474/
 
 ⚡ Favourite Solve Maths problem 🐱‍👤
 
@@ -20,7 +20,7 @@
 ## LANGUAGES & TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,babel,bash,blender,bootstrap,c,cpp,codepen,css,discord,express,heroku,html,java,js,jquery,linux,mongodb,mysql,netlify,nodejs,ps,postman,pr,py,react,vercel,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,codepen,css,discord,express,html,js,mysql,pr,py,vscode,wordpress" />
   </a>
 </p>
 
