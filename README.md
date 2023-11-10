@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
-<h3 align="center">A passionate student for coding , streaks, also do Audio and video editing .</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, This is Nitish kumar</h1>
+<h3 align="center">| Coder | Web devloper | Sports Person</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-xx&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-xx" /> </p>
+![GitHub Views](https://komarev.com/ghpvc/?username=its-aman-yadav&color=0e75b6)
+<img align="right" width="400" src="https://media1.giphy.com/media/TPl5N4Ci49ZQY/giphy.gif?cid=ecf05e47za80g6ltso1o7f71jkoak398c5qnbpb3ckqos3vf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-xx" alt="nitish-xx" /></a> </p>
+🌱 I’m currently learning DSA in C++ and Full Stack Development
+
+💬 Ask me about Cyber Web Developnment, Networking, Data Structures and Content Creation
+
+📫 How to reach me nitiish8474@gmail.com.com
 
 
-- 🔭 I’m currently working on [Combo | Basics of C++ with Data Structures and Algorithms.](https://www.codingninjas.com/)
+📄 Know about my experiences -> https://bit.ly/3NbHbaJ
 
-- 🤝 I’m looking for help with **Coding**
+⚡ Favourite Solve Maths problem 🐱‍👤
 
-- 📫 How to reach me **nitiish8474@gmail.com**
+<br>
 
-- ⚡ Fun fact **I love to do maths problems.**
+## LANGUAGES & TOOLS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,babel,bash,blender,bootstrap,c,cpp,codepen,css,discord,express,heroku,html,java,js,jquery,linux,mongodb,mysql,netlify,nodejs,ps,postman,pr,py,react,vercel,vscode,wordpress" />
+  </a>
+</p>
+
+<br>
 
 ## Connect with me  
 <div align="center">
@@ -22,37 +34,33 @@
 <a href="https://twitter.com/nitiish8474" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</a>
 <a href="https://www.linkedin.com/in/nitiish8474/" target="_blank">
-<img src=https://img.shields.io/badge/linkedln-%231E77B5.svg?&style=for-the-badge&logo=linkedln&logoColor=white alt=linkedln style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_nitiish_xx" target="_blank">
+<a href="https://www.instagram.com/nitiish.ydv/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@nitiish-xx" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /
-
-</a>  
 </div>  
   
+     
+# Productivity Stats📈:
+<a href="https://github.com/its-Aman-Yadav/github-readme-activity-graph"><img alt="Aman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Its-Aman-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## LANGUAGES & TOOLS
-<div align="center">
-   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-   <img alt="Css" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-      <img alt="Css" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
-    <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=blue"/>
-       <img alt="Css" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=green"/>
-          <img alt="Css" src="https://img.shields.io/badge/adobe%20-%231572B6.svg?&style=for-the-badge&logo=adobe&logoColor=blue"/>
-          <img alt="Css" src="https://img.shields.io/badge/canva%20-%231572B6.svg?&style=for-the-badge&logo=canva&logoColor=white"/>
-             
-</div>
 
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish-xx&show_icons=true&locale=en&layout=compact" alt="nitish-xx" /></p>
+## 📊 GitHub Activity
+| ![Aman github stats](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&theme=highcontrast) | ![Aman GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-aman-yadav&theme=highcontrast)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aman-yadav&langs_count=8&theme=highcontrast&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=its-aman-yadav&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=highcontrast) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish-xx&show_icons=true&locale=en" alt="nitish-xx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitish-xx&" alt="nitish-xx" /></p>
+## 📚 My Education Status
+
+
+<h4>⌚ B.Tech (Data science) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+
+
+
+<img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+
