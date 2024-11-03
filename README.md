@@ -40,7 +40,7 @@
                                                                                       |
 
 
-<h4>⌚ B.Tech (Data science) at KCC Institute of Technology and Management ('25), Gr Noida </h4>
+<h4>⌚ B.Tech(Computer Science)('25) </h4>
 
 
 
