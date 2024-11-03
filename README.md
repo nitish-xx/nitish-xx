@@ -13,7 +13,7 @@
 
 📄 Know about my experiences -> https://www.linkedin.com/in/nitiish8474/
 
-⚡ Favourite Solve Maths problem 🐱‍👤
+⚡ Loved to solved the Higher Mathematics problem  🐱‍👤
 
 <br>
 
