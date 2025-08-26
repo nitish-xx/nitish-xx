@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, This is Nitish kumar</h1>
-<h3 align="center">| CSE'25 | Tailwind | Javascript | React | DSA | Sports Person</h3>
+<h3 align="center">| CSE'25 | Tailwind | Javascript | React |Advanced Excel | DSA | Python | </h3>
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
