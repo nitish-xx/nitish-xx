@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning DSA in C++ and Full Stack Development
 
-💬 Ask me about Cyber Security, Web Developnment, Data Structures and algorithm.
+💬 Ask me about Data Analysis, Cyber Security, Web Developnment, Data Structures and algorithm.
 
 📫 How to reach me nitiish8474@gmail.com.com
 
